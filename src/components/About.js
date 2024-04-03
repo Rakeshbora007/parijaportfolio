@@ -27,8 +27,8 @@ const About = () => {
           viewport={{ once: false, amount: 0.3 }}
           className='flex-1'>
           <h2 className='h2 text-[#ff523b]'>About me.</h2>
-          <h3 className='h3 mb-4'>I'm a Full Stack Developer with over 3 years of experience. </h3>
-          <p className='mb-6'>Introducing my portfolio, a showcase of my skills as a full stack developer. With expertise in JavaScript, HTML/CSS, and server-side frameworks, I have crafted dynamic and visually appealing web applications.
+          <h3 className='h3 mb-4'>I'm UI/UX Designer with over 3 years of experience. </h3>
+          <p className='mb-6'> A professional Figma designer applies their skills to design, create, and manage applications, websites, logos, and any other project related to web design. Figma developers have a firm grasp of UI/UX design.
           </p>
           {/* stats  */}
           <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
